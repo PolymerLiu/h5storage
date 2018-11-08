@@ -1,0 +1,24 @@
+{
+  "name": "h5-storage",
+  "version": "1.0.2",
+  "description": "本地存储实现,封装localStorage和sessionStorage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/PolymerLiu/h5storage.git"
+  },
+  "keywords": [
+    "h5",
+    "localStorage",
+    "sessionStorage"
+  ],
+  "author": "JeffreyLiu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PolymerLiu/h5storage/issues"
+  },
+  "homepage": "https://github.com/PolymerLiu/h5storage#readme"
+}
